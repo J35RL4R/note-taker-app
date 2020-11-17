@@ -2,8 +2,11 @@
 Note Taker App
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+## Links
+* **[View the deployed application]()**
 https://note-taker-app-jrl-v1.herokuapp.com/
-[![Screen Shot of Template](images/testsample.PNG)
+## ScreenShot
+<img src="images/testsample.png">
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -26,6 +29,7 @@ This application is covered by the MIT license.
 email me directly.
 ## Tests
 npm run test
-GitHub: J35RL4R
-Email: larsenj732@gmail.com
-Copyright 2020
+## Contact
+* GitHub: J35RL4R
+* Email: larsenj732@gmail.com
+* Copyright 2020
