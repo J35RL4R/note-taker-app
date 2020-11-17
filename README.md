@@ -5,7 +5,7 @@ Note Taker App
 ## Links
 * **[View the deployed application](https://note-taker-app-jrl-v1.herokuapp.com/)**
 
-[![Screen Shot of Template](\images\testsample.png]
+[![Screen Shot of Template](images/testsample.png)]
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
