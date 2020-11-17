@@ -3,7 +3,7 @@ Note Taker App
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Links
-* **[View the deployed application]()**
+* **[View the deployed application](https://note-taker-app-jrl-v1.herokuapp.com/)**
 https://note-taker-app-jrl-v1.herokuapp.com/
 [![Screen Shot of Template](images\testsample.png]
 ## Table of Contents
