@@ -20,7 +20,7 @@ For users that need to keep track of a lot of information, it's easy to forget o
 To get dependencies, run:
 npm install, express
 ## Usage
-Maybe be updated in the future.
+May be updated in the future.
 ## License
 MIT
 This application is covered by the MIT license. 
